@@ -1,0 +1,11 @@
+D:\ASP API\StripeTest\bin\Debug\netcoreapp2.0\StripeTest.deps.json
+D:\ASP API\StripeTest\bin\Debug\netcoreapp2.0\StripeTest.runtimeconfig.json
+D:\ASP API\StripeTest\bin\Debug\netcoreapp2.0\StripeTest.runtimeconfig.dev.json
+D:\ASP API\StripeTest\bin\Debug\netcoreapp2.0\StripeTest.dll
+D:\ASP API\StripeTest\bin\Debug\netcoreapp2.0\StripeTest.pdb
+D:\ASP API\StripeTest\obj\Debug\netcoreapp2.0\StripeTest.csprojResolveAssemblyReference.cache
+D:\ASP API\StripeTest\obj\Debug\netcoreapp2.0\StripeTest.csproj.CoreCompileInputs.cache
+D:\ASP API\StripeTest\obj\Debug\netcoreapp2.0\StripeTest.AssemblyInfoInputs.cache
+D:\ASP API\StripeTest\obj\Debug\netcoreapp2.0\StripeTest.AssemblyInfo.cs
+D:\ASP API\StripeTest\obj\Debug\netcoreapp2.0\StripeTest.dll
+D:\ASP API\StripeTest\obj\Debug\netcoreapp2.0\StripeTest.pdb
