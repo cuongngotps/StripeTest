@@ -12564,6 +12564,9 @@
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
       "projectUniqueName": "D:\\ASP API\\StripeTest\\StripeTest.csproj",
       "projectName": "StripeTest",
